@@ -32,7 +32,9 @@ series models (SARIMAX and PROPHET). The results of these techniques are then co
 
 *Keywords:* Inventory Management. Predictability. ABC/XYZ Matrix.
 
-[Download do Artigo Completo](https://github.com/TCC-Mackenzie-Caroline-e-Rafaella/TCC/raw/main/RECEITA%20E%20PREVISIBILIDADE%20DE%20DEMANDA%20NA%20GESTA%CC%83O%20DE%20ESTOQUE%20DE%20UMA%20EMPRESA%20DE%20VESTUA%CC%81RIO.pdf)
+<br>
+
+[Click para Download do Artigo](https://github.com/TCC-Mackenzie-Caroline-e-Rafaella/TCC/raw/main/RECEITA%20E%20PREVISIBILIDADE%20DE%20DEMANDA%20NA%20GESTA%CC%83O%20DE%20ESTOQUE%20DE%20UMA%20EMPRESA%20DE%20VESTUA%CC%81RIO.pdf)
   
 
 
