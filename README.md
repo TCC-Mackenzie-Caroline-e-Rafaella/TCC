@@ -11,9 +11,9 @@
 Caroline Jawetz Steiner, Rafaella Spatz, Rogério de Oliveira (*orientador*)
 
 
-![gif](https://github.com/Rogerio-mack/work/raw/main/animation_slides.gif)
+![gif](https://github.com/TCC-Mackenzie-Caroline-e-Rafaella/TCC/raw/main/animation_slides.gif)
 
-
+[Artigo Completo](https://github.com/TCC-Mackenzie-Caroline-e-Rafaella/TCC/raw/main/RECEITA%20E%20PREVISIBILIDADE%20DE%20DEMANDA%20NA%20GESTA%CC%83O%20DE%20ESTOQUE%20DE%20UMA%20EMPRESA%20DE%20VESTUA%CC%81RIO.pdf)
   
 ## Resumo
 Este projeto tem como objetivo propor uma melhoria no processo de gestão de estoque de uma
