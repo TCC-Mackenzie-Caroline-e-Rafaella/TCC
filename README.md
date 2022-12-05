@@ -6,15 +6,13 @@
 
 ---
 
-# Receita e Previsibilidade de Demanda na Gestão de Estoque de uma Empresa de Vestuário 
+# [Receita e Previsibilidade de Demanda na Gestão de Estoque de uma Empresa de Vestuário](https://github.com/TCC-Mackenzie-Caroline-e-Rafaella/TCC/blob/main/RECEITA%20E%20PREVISIBILIDADE%20DE%20DEMANDA%20NA%20GESTA%CC%83O%20DE%20ESTOQUE%20DE%20UMA%20EMPRESA%20DE%20VESTUA%CC%81RIO.pdf)
 
 Caroline Jawetz Steiner, Rafaella Spatz, Rogério de Oliveira (*orientador*)
 
 
 ![gif](https://github.com/TCC-Mackenzie-Caroline-e-Rafaella/TCC/raw/main/animation_slides.gif)
 
-[Artigo Completo](https://github.com/TCC-Mackenzie-Caroline-e-Rafaella/TCC/raw/main/RECEITA%20E%20PREVISIBILIDADE%20DE%20DEMANDA%20NA%20GESTA%CC%83O%20DE%20ESTOQUE%20DE%20UMA%20EMPRESA%20DE%20VESTUA%CC%81RIO.pdf)
-  
 ## Resumo
 Este projeto tem como objetivo propor uma melhoria no processo de gestão de estoque de uma
 empresa de moda masculina baseado na priorização dos produtos pela matriz ABC/XYZ. Para a
@@ -33,6 +31,9 @@ Predictability is evaluated with three techniques: the coefficient of variation 
 series models (SARIMAX and PROPHET). The results of these techniques are then compared.
 
 *Keywords:* Inventory Management. Predictability. ABC/XYZ Matrix.
+
+[Download do Artigo Completo](https://github.com/TCC-Mackenzie-Caroline-e-Rafaella/TCC/raw/main/RECEITA%20E%20PREVISIBILIDADE%20DE%20DEMANDA%20NA%20GESTA%CC%83O%20DE%20ESTOQUE%20DE%20UMA%20EMPRESA%20DE%20VESTUA%CC%81RIO.pdf)
+  
 
 
 
